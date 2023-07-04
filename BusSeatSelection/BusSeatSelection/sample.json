@@ -1,0 +1,86 @@
+[
+  {
+    "seatNumber": "1",
+    "user": "John",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "2",
+    "user": "Emily",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "3",
+    "user": "Michael",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "4",
+    "user": "Sophia",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "28",
+    "user": "David",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "10",
+    "user": "Sophia",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "5",
+    "user": "David",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "23",
+    "user": "Sophia",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "25",
+    "user": "David",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "17",
+    "user": "Sophia",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "16",
+    "user": "Sophia",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "50",
+    "user": "David",
+    "gender": "male",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "44",
+    "user": "Sophia",
+    "gender": "female",
+    "status": "occupied"
+  },
+  {
+    "seatNumber": "36",
+    "user": "David",
+    "gender": "male",
+    "status": "occupied"
+  }
+]
