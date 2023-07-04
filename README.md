@@ -1,4 +1,9 @@
 # BusSeatSelection
+
+
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-04 at 22 44 31](https://github.com/vimalbosamia/BusSeatSelection/assets/12189623/e3610404-4091-4c5b-af0a-3d5e1ae45d91)
+
+
 The `BusViewController` class represents a view controller responsible for displaying a bus seating arrangement. It conforms to the `UIViewController`, `UICollectionViewDataSource`, and `UICollectionViewDelegateFlowLayout` protocols.
 
 The class has properties to define the total number of seats (`totalSeats`), the number of columns in the seating arrangement (`columns`), the number of seats per row (`seatsPerRow`), and an array of `Seat` objects (`seats`) to store the seat statuses.
